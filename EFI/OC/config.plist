@@ -896,7 +896,7 @@
                     <key>boot-args</key>
                     <string>revblock=pci agdpmod=pikera unfairgva=1 -radcodec</string>
                     <key>csr-active-config</key>
-                    <data>AAAAAA==</data>
+                    <data>/w8AAA==</data>
                     <key>prev-lang:kbd</key>
                     <data>ZW4tVVM6MA==</data>
                 </dict>

@@ -1,9 +1,10 @@
 # ASRock-B760M-HDV-Hackintosh
 
-A repo for installing macOS Ventura to Sequoia on ASRock B760M using OpenCore.
+A repo for installing macOS Ventura to Sequoia on ASRock B760M HDV M.2 D4 using OpenCore.
 ![](Images/Screenshot.png)
 
 # PC's Hardware 
+- <b>Motherboard</b>:  ASRock B760M HDV M.2 D4 
 - <b>CPU</b>: [Intel i5 12400f](https://www.intel.co.id/content/www/id/id/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html) Hexa-Core CPU 4.4 Ghz (Alder Lake)
 - <b>GPU</b>: MSI MECH 2x 8G - AMD Radeon RX 6600 8GB
 - <b>Storage</b>: 1TB ADATA S70 Blade NVMe PCIe 4.0 SSD - runs at PCIe 3.0
